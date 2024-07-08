@@ -2,22 +2,15 @@
 # Where doner got cheaper
 #### Germany's popular streetfood doner kebab is not that cheap anymore. Prices have generally risen – but in some places they went down. And the veggi version "voner" can be a cheaper alternative.
 
-#### Short description of what you aimed to accomplish
-#### Short description of your findings
-#### Summary of the data collection process, with links
-#### Overview of the data analysis process
+#### Using data from the delivery company Lieferando I showed how the average doner price in big German cities changed from July 2023 to January 2024.
+#### Though there was a big public discussion about the rise of doner prices, it turned out that in Berlin the difference was not as big as I had expected. Also, in some cities the average actually went down.
+#### Besides, I was curious about the price difference between a normal doner and the veggi version for my zip code in Hamburg.
 
 #### The stories' webpage is here: 
+
 # Things I have learned from this project:
 
-#### A section about what new skills, approaches, etc you used, or where you grew the most during the project
+#### For this project I created my own website. Usually I work with a cms. I created and styled my charts with datawrapper. For the firth graph I used data that was published by the company. For the second one I created my own small data set by hand.
 
 # Things I would have liked to do:
-#### A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)
-
-# Data used for analysis
-
-
-#### A .gitignoreLinks to an external site. file to keep out any files you don't actually want in the project
-
-#### A link to the project page (you can add a link in your README, or by clicking the gear icon next to "About" on the right-hand side of your repo)
+#### Actually, I wanted to scrape the website lieferando.de. But this would not answer my question, because I wanted to compare data from last year to this year.
