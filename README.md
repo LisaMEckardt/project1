@@ -8,7 +8,7 @@
 
 ##### For this project I created my own website. I made my charts with datawrapper. For the firth graph I used data that was published by the company. For the second one I created my own small data set by hand.
 
-##### Actually, I wanted to scrape the website lieferando.de. But this would not answer my question, because I wanted to compare data from last year to this year.
+##### Actually, I wanted to scrape the website lieferando.de. But this would not answer my question, because I wanted to compare data from last year to this year. I found a bigger data set on the internet with data from Google Reviews. If I had more time, I would have a closer look and try to recreate it. But I think that this kind of data also has a lot of uncertainties.
 
 ##### The stories' webpage is here: 
 
